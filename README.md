@@ -1,2 +1,2 @@
-# Agriapp
-Desenvolvimento Aplicativo para o Agronegócio 
+# AgriApp
+Projeto de aplicativo voltado ao agronegócio
